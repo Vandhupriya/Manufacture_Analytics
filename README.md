@@ -1,4 +1,4 @@
-# Manufacture Analytics Project
+# Manufacture Data Analytics Project
 
 # Project Overview
 
