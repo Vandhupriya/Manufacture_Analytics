@@ -1,11 +1,11 @@
 # Manufacture Data Analytics Project
 
-# Project Overview
+**Project Overview**
 
 This project involves analyzing manufacturing data using SQL, Excel, Tableau, and Power BI to derive insights and visualize key performance metrics.
 The main objectives are to monitor production efficiency, track rejection trends, and provide a comprehensive overview of manufacturing performance across departments and machines.
 
-# Tools and Technologies
+**Tools and Technologies**
 
 **SQL**: For querying the manufacturing database to extract KPIs and operational insights.
 
@@ -15,7 +15,7 @@ The main objectives are to monitor production efficiency, track rejection trends
 
 **Tableau**: For advanced visualization and trend analysis to support decision-making.
 
-# Data Sources
+**Data Sources**
 
 Manufacturing Database — contains the following tables:
 
@@ -27,7 +27,7 @@ Manufacturing Database — contains the following tables:
 
 **Employee Data** – Contains employee IDs, departments, and assigned machines.
 
-# SQL Queries
+**SQL Queries**
 
 **Production KPI**: Calculates total production quantity per day, department, and machine.
 
@@ -43,14 +43,14 @@ Manufacturing Database — contains the following tables:
 
 **Monthly Summary Report**: Summarizes production, rejection, and efficiency month-over-month.
 
-# Excel Analysis
+**Excel Analysis**
 
 Pivot Charts were created for each SQL output to visualize the data effectively.
 The charts include:
 
 **Production Trend Analysis** – Daily and weekly output across machines.
 
-Rejection Trend Analysis – Defects and rejections by department and reason.
+**Rejection Trend Analysis** – Defects and rejections by department and reason.
 
 **Efficiency Overview** – Comparison of machine and employee efficiency.
 
@@ -60,7 +60,7 @@ Rejection Trend Analysis – Defects and rejections by department and reason.
 
 **Monthly Summary** – Overview of production and rejection trends month-over-month.
 
-# Power BI Dashboard
+**Power BI Dashboard**
 
 This dashboard provides a comprehensive analysis of production output, rejection, and efficiency metrics.
 
@@ -90,7 +90,7 @@ This dashboard provides a comprehensive analysis of production output, rejection
 
 Switch between Production View and Efficiency View in the charts.
 
-# Tableau Dashboard
+**Tableau Dashboard**
 
 This dashboard focuses on a detailed breakdown of efficiency and rejection metrics.
 
@@ -114,7 +114,7 @@ Efficiency %
 
 **Toggle Buttons:** Switch between dashboards for comprehensive insights.
 
-# How to Run the Project
+**How to Run the Project**
 
 **Database Setup:** 
 
@@ -144,7 +144,7 @@ Use slicers to explore department, machine, and date-specific trends.
 
 Toggle between views to compare production, rejection, and efficiency.
 
-# Conclusion
+**Conclusion**
 
 This project showcases how SQL, Excel, Tableau, and Power BI can be integrated to analyze and visualize manufacturing data effectively.
 The insights derived from the dashboards help manufacturing managers optimize production, reduce rejections, and enhance operational efficiency through data-driven decisions.
