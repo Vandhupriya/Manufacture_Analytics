@@ -1,6 +1,6 @@
 # Manufacture Analytics Project
 
-**Project Overview**
+# Project Overview
 
 This project involves analyzing manufacturing data using SQL, Excel, Tableau, and Power BI to derive insights and visualize key performance metrics.
 The main objectives are to monitor production efficiency, track rejection trends, and provide a comprehensive overview of manufacturing performance across departments and machines.
